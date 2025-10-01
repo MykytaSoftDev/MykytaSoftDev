@@ -27,7 +27,7 @@ I'm a **Full Stack Software Engineer** with 4+ years of experience building scal
 
 - ✉️ Email: [mykyta.soft.dev@gmail.com](mailto:mykyta.soft.dev@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nick-nazarenko/)  
-- 💻 [Portfolio (coming soon)]()  
+- 💻 [Portfolio](https://nick-nazarenko.dev/)  
 - 🧪 [GitHub Projects](https://github.com/MykytaSoftDev)
 
 ## 🔭 Currently Working On
